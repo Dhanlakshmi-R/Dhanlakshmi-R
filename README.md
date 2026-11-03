@@ -1,5 +1,5 @@
 <!-- ============================================================
-     NEON PROFILE README · Dhanlaxmi R
+     NEON PROFILE README · Dhanlaxmi 
      Palette: bg #0D1117 · cyan #00F0FF · magenta #FF2E97 · violet #9D4EDD
      ============================================================ -->
 
@@ -40,7 +40,7 @@
 ### `~/` whoami
 
 ```yaml
-name: Dhanlaxmi R
+name: Dhanlaxmi 
 role: CS Student → AI/ML + Software Engineer
 location: India
 focus:
@@ -110,40 +110,51 @@ mindset: "Always learning, building & evolving."
 
 ## 🚀 Featured Builds
 
-<!-- ✏️ EDIT ME: swap in your real repos, descriptions, tech and links -->
+<!-- Real projects from my GitHub — see github.com/Dhanlakshmi-R for the full list -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 AI Resume Analyzer</h3>
-      <p><sub>NLP-powered screening that scores resumes against a job description and highlights skill gaps.</sub></p>
-      <p><code>Python</code> <code>spaCy</code> <code>Streamlit</code></p>
-      <p><a href="https://github.com/Dhanlakshmi-R?tab=repositories"><b>Repository →</b></a></p>
+      <h3>🤖 NovaDesk AI</h3>
+      <p><sub>AI-powered customer support assistant with live response guidance, built end-to-end.</sub></p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code></p>
+      <p><a href="https://github.com/Dhanlakshmi-R/NovaDesk_AI"><b>Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 ML Price Predictor</h3>
-      <p><sub>End-to-end regression pipeline with feature engineering, model comparison and a live prediction UI.</sub></p>
-      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code></p>
-      <p><a href="https://github.com/Dhanlakshmi-R?tab=repositories"><b>Repository →</b></a></p>
+      <h3>🌾 Jeevandhara 2</h3>
+      <p><sub>Chat-first agriculture platform for Indian farmers and traders, shipped as a mobile app.</sub></p>
+      <p><code>Dart</code> <code>Flutter</code></p>
+      <p><a href="https://github.com/Dhanlakshmi-R/Jeevandhara-2"><b>Repository →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Task Manager</h3>
-      <p><sub>Auth, CRUD and a clean dashboard — a production-style web app built from the ground up.</sub></p>
-      <p><code>React</code> <code>Node.js</code> <code>SQLite</code></p>
-      <p><a href="https://github.com/Dhanlakshmi-R?tab=repositories"><b>Repository →</b></a></p>
+      <h3>🗂️ BugBoard — Defect Lifecycle Tracker</h3>
+      <p><sub>Capstone project (CP095) tracking defects through their full lifecycle, built as a team.</sub></p>
+      <p><code>Team Project</code> <code>Web</code></p>
+      <p><a href="https://github.com/Dhanlakshmi-R/capstone-CP095-dhanlaxmi-deekshith"><b>Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Sentiment Analysis Dashboard</h3>
-      <p><sub>Real-time text sentiment with visual breakdowns, built to make model output human-readable.</sub></p>
-      <p><code>Python</code> <code>Transformers</code> <code>Plotly</code></p>
-      <p><a href="https://github.com/Dhanlakshmi-R?tab=repositories"><b>Repository →</b></a></p>
+      <h3>✋ Hand Gesture Recognition</h3>
+      <p><sub>ML model classifying hand gestures representing letters of the alphabet (SkillCraft Task 4).</sub></p>
+      <p><code>Python</code> <code>Machine Learning</code> <code>Jupyter</code></p>
+      <p><a href="https://github.com/Dhanlakshmi-R/SCT_ML_4"><b>Repository →</b></a></p>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>👉 More experiments and works-in-progress live in my <a href="https://github.com/Dhanlakshmi-R?tab=repositories">repositories</a>.</sub></p>
+### 📚 More from my GitHub
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [SCT_ML_1](https://github.com/Dhanlakshmi-R/SCT_ML_1) | House price prediction with Linear Regression | Jupyter · Python |
+| [SCT_ML_2](https://github.com/Dhanlakshmi-R/SCT_ML_2) | Customer segmentation using K-Means clustering | Jupyter · Python |
+| [SCT_ML_3](https://github.com/Dhanlakshmi-R/SCT_ML_3) | Cat vs Dog image classification with SVM | Jupyter · Python |
+| [ChefLens AI Recipe Finder](https://github.com/Dhanlakshmi-R/ChefLens-AI_Recipe_Finder) | AI-powered recipe finder | JavaScript |
+| [Jeevandhara (web)](https://github.com/Dhanlakshmi-R/Jeevandhara_2) | Agriculture platform — web version | HTML |
+| [oops_java](https://github.com/Dhanlakshmi-R/oops_java) | Object-oriented programming practice in Java | Java |
+
+<p align="center"><sub>👉 Browse everything at <a href="https://github.com/Dhanlakshmi-R?tab=repositories">my repositories</a>.</sub></p>
 
 <!-- ============================ GITHUB ANALYTICS ============================ -->
 
@@ -160,14 +171,6 @@ mindset: "Always learning, building & evolving."
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhanlakshmi-R&theme=github_dark" alt="Profile summary" />
-</p>
-
-<!-- ============================ TROPHIES ============================ -->
-
-## 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy-flax.vercel.app/?username=Dhanlakshmi-R&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 <!-- ============================ SNAKE ============================ -->
