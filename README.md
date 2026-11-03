@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1A1B3A,100:00F0FF&height=240&section=header&text=Dhanlaxmi%20R&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=AI%20%26%20Machine%20Learning%20%7C%20Full-Stack%20Engineer&descAlignY=56&descSize=18&stroke=00F0FF&strokeWidth=1" alt="Dhanlaxmi R banner" />
+  <img src="./assets/banner.svg" alt="Dhanlaxmi R banner" width="100%" />
 </p>
 
 <h3 align="center">Turning curiosity into intelligent, shippable software.</h3>

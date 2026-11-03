@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Dhanlaxmi R banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1A1B3A"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="50%" stop-color="#9D4EDD"/>
+      <stop offset="100%" stop-color="#FF2E97"/>
+    </linearGradient>
+    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#FF2E97"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- animated wave -->
+  <path fill="url(#wave)" opacity="0.85">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 150 Q 300 110 600 150 T 1200 150 L1200 200 L0 200 Z;
+              M0 150 Q 300 190 600 150 T 1200 150 L1200 200 L0 200 Z;
+              M0 150 Q 300 110 600 150 T 1200 150 L1200 200 L0 200 Z"/>
+  </path>
+  <path fill="url(#wave)" opacity="0.4">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 165 Q 400 130 800 165 T 1200 165 L1200 200 L0 200 Z;
+              M0 165 Q 400 200 800 165 T 1200 165 L1200 200 L0 200 Z;
+              M0 165 Q 400 130 800 165 T 1200 165 L1200 200 L0 200 Z"/>
+  </path>
+
+  <!-- title -->
+  <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="62" font-weight="800" fill="url(#textgrad)" filter="url(#glow)">
+    Dhanlaxmi R
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="18" font-weight="500" fill="#C9D1D9" letter-spacing="2">
+    AI &amp; MACHINE LEARNING  ·  FULL-STACK ENGINEER
+  </text>
+
+  <!-- accent line -->
+  <rect x="540" y="145" width="120" height="2" rx="1" fill="url(#wave)" opacity="0.9"/>
+</svg>
